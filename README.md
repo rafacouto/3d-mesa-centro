@@ -1,11 +1,14 @@
 # Deseño de mesa de centro
 
+![Imaxe final](img/final.png)
+
 Esta mesa de centro está composta por 4 pezas simples en madeira de 3cm de
 grosor buscando un ensamble rápido e construción robusta.
 
-- [src](src) Documentos fonte.
+## Recursos
 
-![Imaxe final](img/final.png)
+- [src - Documentos fonte](src).
+- [stl - Sólidos CAD](stl).
 
 ## Despece
 
@@ -30,5 +33,14 @@ grosor buscando un ensamble rápido e construción robusta.
 ### Posta da tabla superior
 
 ![Posta da tabla superior](img/paso_03.png)
+
+
+## Prototipo impreso a 1:6
+
+![Encaixe de patas con tabla do medio](img/01.jpg)
+
+![Montaxe final](img/02.jpg)
+
+
 
 
