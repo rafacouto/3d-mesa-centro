@@ -5,6 +5,8 @@ grosor buscando un ensamble rápido e construción robusta.
 
 - [src](src) Documentos fonte.
 
+![Imaxe final](img/final.png)
+
 ## Despece
 
 ![Pata 1](img/pata1.png)
