@@ -1,4 +1,4 @@
-# 3d-mesa-centro
+# Deseño de mesa de centro
 
 Esta mesa de centro está composta por 4 pezas simples en madeira de 3cm de
 grosor buscando un ensamble rápido e construción robusta.
